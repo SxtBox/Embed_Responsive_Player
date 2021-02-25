@@ -1,2 +1,2 @@
-# Embed_Responsive_Player
+# Embed Responsive Player
 Make Embed Player to Responsive
