@@ -41,22 +41,22 @@ $embed_code ='
 ?>
 <html lang="en">
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<title>Youtube Responsive Player</title>
-	<link rel="shortcut icon" href="favicon.ico"/>
-	<link rel="icon" href="favicon.ico"/>
-	<meta name="description" content="Youtube Responsive Player">
-	<meta http-equiv="cache-control" content="no-store">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Youtube Responsive Player</title>
+    <link rel="shortcut icon" href="favicon.ico"/>
+    <link rel="icon" href="favicon.ico"/>
+    <meta name="description" content="Youtube Responsive Player">
+    <meta http-equiv="cache-control" content="no-store">
     <meta name="author" content="Olsion Bakiaj - Endrit Pano" />
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="apple-mobile-web-app-title" content="Albdroid TV">
-	<meta name="keywords" content="Albdroid TV" />
+    <meta name="keywords" content="Albdroid TV" />
     <meta name="application-name" content="Albdroid TV">
     <meta name="msapplication-tooltip" content="Albdroid TV">
     <meta name="msapplication-starturl" content="http://cdn.kodi.al">
-	<meta property="og:type" content="Television" />
+    <meta property="og:type" content="Television" />
     <meta name="msapplication-TileColor" content="#0F0">
     <meta name="msapplication-navbutton-color" content="#0F0">
     <meta name="theme-color" content="#0F0">
